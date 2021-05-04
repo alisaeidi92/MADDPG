@@ -1,8 +1,6 @@
 import torch
 import os
 from maddpg.actor_critic import Actor, Critic
-
-import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
